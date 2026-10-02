@@ -1,0 +1,12 @@
+body{
+    background-color:grey;
+    color: blanchedalmond;
+    font-size: 50px;
+}
+p{
+    text-align: center;
+    color: goldenrod;
+}
+.description{
+    color: cornsilk;
+}
